@@ -5,6 +5,8 @@ A material design new tab/homepage based off of [cadejscroggins' tilde startpage
 A few quotes chosen from [abhn's personal blog repo](https://github.com/abhn/abhn.github.io).
 [LIVE DEMO](http://darth-dodo.github.io/tilde/)
 
+Using the [typed.js repo by Matt Boldt](https://github.com/mattboldt/typed.js) for the quotes typing effect.
+
 **Usage:**
 
 It's pretty simple. To go to a site you just enter the corresponding key. To view the available commands, enter a `?`. If your input doesn't match any of the commands, a generic google search will be triggered.

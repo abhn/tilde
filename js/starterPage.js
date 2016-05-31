@@ -30,7 +30,7 @@
             var date = new Date();
             var hours = Clock.zeros(date.getHours());
             var minutes = Clock.zeros(date.getMinutes());
-            var time = hours + ':' + minutes;
+            var time = hours + ' ' + minutes;
             console.log(hours);
             Clock.el.innerHTML = time;
         }
@@ -83,6 +83,8 @@
 
 
     // dodo mods
+    
+    //array shuffler 
     function shuffle(array) {
         var currentIndex = array.length,
             temporaryValue, randomIndex;
@@ -103,6 +105,12 @@
         return array;
     }
 
+    // //quote parser
+    // var quoteParser = function(currQuote){
+    //         var quote_arr = currQuote.split('')
+    // };
+
+    //greeting message based on local time
     var greetingMessage = function() {
         var curr_date = new Date();
         var hours = curr_date.getHours();
@@ -132,27 +140,34 @@
         document.getElementById("displayGreeting").innerHTML = randGreet;
     };
 
-    var populateQuote = function() {
-        var allQuotes = [
-            'Life is chess, not checkers. - Pvk',
-            'A man cannot build a reputation on what he is going to do. - Henry Ford'
-        ];
-        var allQuotes = ['<i>"Your life is ending one minute at a time. If you were to die tomorrow, what would you do today?"</i> - Chuck Palahnuik',
-            '<i>"It is never to late to become what you never were."</i> - Anon',
-            '<i>"The future will only contain what we put into it now."</i> - Anon'
-        ]
-        var shuffledQuotes = shuffle(allQuotes);
-        $(".displayQuote").typed({
-            strings: shuffledQuotes,
-            typeSpeed: 0,
-            backSpeed: 1,
-            backDelay: 2000,
-            loop: true,
-            showCursor: true,
-            // character for cursor
-            cursorChar: "|",
-        });
 
+
+    //logic to generate quotes
+    var populateQuote = function() {
+
+        //read quotes from quotes.txt into an array
+        var allQuotes = [];
+        var filename = 'data/quotes.txt';     
+        
+        $.get(filename, function(data){
+            allQuotes = data.split('\n');
+
+            var shuffledQuotes = shuffle(allQuotes);
+            console.log(shuffledQuotes.length);
+            
+            $(".displayQuote").typed({
+                strings: shuffledQuotes,
+                typeSpeed: 0,
+                backSpeed: 0,
+                backDelay: 2000,
+                loop: true,
+                showCursor: true,
+                // character for cursor
+                cursorChar: "|",
+
+            });//typed.js
+
+        });//get
     };
 
     greetingMessage();

@@ -1,8 +1,9 @@
-# material tilde
+# tilde
 
-A material design new tab/homepage based off of [cadejscroggins' tilde startpage](https://cadejscroggins.github.io/tilde/).
+A material design new tab/homepage based off of [cadejscroggins' tilde startpage](https://cadejscroggins.github.io/tilde/) and [vishumad's material startpage](https://www.github.com/vishnumad/material-tilde).
 
-[LIVE DEMO](http://vishnumadhusoodanan.github.io/material-tilde/)
+A few quotes chosen from [abhn's personal blog repo](https://github.com/abhn/abhn.github.io).
+[LIVE DEMO](http://darth-dodo.github.io/tilde/)
 
 **Usage:**
 
@@ -11,9 +12,10 @@ It's pretty simple. To go to a site you just enter the corresponding key. To vie
 **Examples:**
 
 ```
-amazon                 # takes you to amazon.com
-twitter: donald trump  # searches Twitter for Donald Trump
-github: twitter        # searches GitHub for Twitter
-fb                     # takes you to facebook.com
-asdf                   # searches google for asdf
+amazon                # takes you to amazon.in
+github: Django        # searches GitHub for Django
+apples                # searches google for apples
 ```
+**Furthur**
+
+Help me make it better or create your own starter page! ^_^

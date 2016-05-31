@@ -48,6 +48,9 @@
 
         search: function(e) {
             var q = Cmdr.searchText.value;
+            if (q){
+                q = q.toLowerCase();
+            }
 
             if (q === '?') {
                 Cmdr.commands.forEach(function(command) {
@@ -211,7 +214,7 @@
                 strings: shuffledQuotes,
                 typeSpeed: 0,
                 backSpeed: 0,
-                backDelay: 2000,
+                backDelay: 5000,
                 loop: true,
                 showCursor: true,
                 // character for cursor
@@ -277,6 +280,14 @@
             name: 'DuckDuckGo',
             url: 'https://www.duckduckgo.com',
             search: '/search?q='
-        }, ]
+        },  {
+            key: '3',
+            name: 'localhost:3000',
+            url: 'http://http://localhost:3000/'
+        }, {
+            key: '8',
+            name: 'localhost:8000',
+            url: 'http://localhost:8000/'
+        },]
     });
 }());

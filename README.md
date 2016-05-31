@@ -3,7 +3,8 @@
 A material design new tab/homepage based off of [cadejscroggins' tilde startpage](https://cadejscroggins.github.io/tilde/) and [vishumad's material startpage](https://www.github.com/vishnumad/material-tilde).
 
 A few quotes chosen from [abhn's personal blog repo](https://github.com/abhn/abhn.github.io).
-[LIVE DEMO](http://darth-dodo.github.io/tilde/)
+
+[Demo](http://darth-dodo.github.io/tilde/)
 
 Integrated the [typed.js repo by Matt Boldt](https://github.com/mattboldt/typed.js) for the quotes typing effect.
 

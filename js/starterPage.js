@@ -261,11 +261,6 @@
             url: 'https://soundcloud.com',
             search: '/search?q='
         }, {
-            key: 'twitter',
-            name: 'Twitter',
-            url: 'https://twitter.com',
-            search: '/search?q='
-        }, {
             key: 'yt',
             name: 'YouTube',
             url: 'https://www.youtube.com',

@@ -147,6 +147,8 @@
         var curr_date = new Date();
         var hours = curr_date.getHours();
         var curr_hour = parseInt(hours);
+        console.log(curr_hour);
+        var selectedPeriod = ["Hey there, stranger!"];
 
         if (12 > curr_hour && curr_hour >= 5) {
             var morningMessages = ["Rise and Shine", "Early bird catches the.."];
@@ -157,7 +159,7 @@
         } else if (22 > curr_hour && curr_hour >= 16) {
             var eveningMessages = ['Good evening.', 'What\'s cookin\' for dinner?'];
             selectedPeriod = eveningMessages;
-        } else if (22 >= curr_hour || (curr_hour > 0 && curr_hour <= 5)) {
+        } else if (22 <= curr_hour || (curr_hour > 0 && curr_hour <= 5)) {
             var sleepMessages = ['You should probably go to bed...', 'Staying up late is not a healthy habit'];
             selectedPeriod = sleepMessages;
         }

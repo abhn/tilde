@@ -176,7 +176,7 @@
 
         //read quotes from quotes.txt into an array
         var allQuotes = [];
-        var filename = '/data/quotes.txt';
+        var filename = 'data/quotes.txt';
 
         $.get(filename, function(data) {
 

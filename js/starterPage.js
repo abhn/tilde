@@ -48,6 +48,7 @@
 
         search: function(e) {
             var q = Cmdr.searchText.value;
+            document.getElementById('js-searh-text').value = '';
             if (q){
                 q = q.toLowerCase();
             }
@@ -159,7 +160,7 @@
         } else if (22 > curr_hour && curr_hour >= 16) {
             var eveningMessages = ['Good evening.', 'What\'s cookin\' for dinner?'];
             selectedPeriod = eveningMessages;
-        } else if (22 <= curr_hour || (curr_hour > 0 && curr_hour <= 5)) {
+        } else if (22 <= curr_hour || (curr_hour => 0 && curr_hour < 5)) {
             var sleepMessages = ['You should probably go to bed...', 'Staying up late is not a healthy habit'];
             selectedPeriod = sleepMessages;
         }

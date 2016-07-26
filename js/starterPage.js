@@ -48,7 +48,6 @@
 
         search: function(e) {
             var q = Cmdr.searchText.value;
-            document.getElementById('js-searh-text').value = '';
             if (q){
                 q = q.toLowerCase();
             }
@@ -155,13 +154,13 @@
             var morningMessages = ["Rise and Shine", "Early bird catches the.."];
             selectedPeriod = morningMessages;
         } else if (16 > curr_hour && curr_hour >= 12) {
-            var afternoonMessages = ["Good Afternoon"];
+            var afternoonMessages = ['Time for a siesta!', 'Power Nap!'];
             selectedPeriod = afternoonMessages;
         } else if (22 > curr_hour && curr_hour >= 16) {
-            var eveningMessages = ['Good evening.'];
+            var eveningMessages = ['Good evening.', 'What\'s cookin\' for dinner?'];
             selectedPeriod = eveningMessages;
-        } else if (22 <= curr_hour || (curr_hour => 0 && curr_hour < 5)) {
-            var sleepMessages = ['SLEEP.'];
+        } else if (22 <= curr_hour || (curr_hour > 0 && curr_hour <= 5)) {
+            var sleepMessages = ['You should probably go to bed...', 'Staying up late is not a healthy habit'];
             selectedPeriod = sleepMessages;
         }
 

@@ -155,13 +155,13 @@
             var morningMessages = ["Rise and Shine", "Early bird catches the.."];
             selectedPeriod = morningMessages;
         } else if (16 > curr_hour && curr_hour >= 12) {
-            var afternoonMessages = ['Time for a siesta!', 'Power Nap!'];
+            var afternoonMessages = ["Good Afternoon"];
             selectedPeriod = afternoonMessages;
         } else if (22 > curr_hour && curr_hour >= 16) {
-            var eveningMessages = ['Good evening.', 'What\'s cookin\' for dinner?'];
+            var eveningMessages = ['Good evening.'];
             selectedPeriod = eveningMessages;
         } else if (22 <= curr_hour || (curr_hour => 0 && curr_hour < 5)) {
-            var sleepMessages = ['You should probably go to bed...', 'Staying up late is not a healthy habit'];
+            var sleepMessages = ['SLEEP.'];
             selectedPeriod = sleepMessages;
         }
 
@@ -176,7 +176,7 @@
 
         //read quotes from quotes.txt into an array
         var allQuotes = [];
-        var filename = 'data/quotes.txt';
+        var filename = 'file:///Users/dodo/stuff/exposed/quotes.txt;
 
         $.get(filename, function(data) {
 

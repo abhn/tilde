@@ -77,6 +77,7 @@
 
                 //open the command in a new tab
                 window.open(Cmdr.location, '_blank');
+                Cmdr.searchText.value = '';
             }
 
             e.preventDefault();

@@ -217,7 +217,7 @@
             $(".displayQuote").typed({
                 strings: shuffledQuotes,
                 typeSpeed: 0,
-                backSpeed: 2,
+                backSpeed: 5,
                 backDelay: 5000,
                 loop: true,
                 showCursor: true,

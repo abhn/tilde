@@ -35,12 +35,12 @@ You only look in your neighbor's bowl to ensure he has enough. - Louis C. K.
 Being a professional means doing your job on the days you don't feel like doing it. - David Halberstram
 Suffer the pain of discipline, or suffer the pain of regret. - Jim Rohn
 You will judge yourself by your intentions, but others by their actions.
-When someone shows you who they are, believe them. -Maya Angelou
-Give a man a mask-- and he will show you his true face - Oscar Wilde
+When someone shows you who they are, believe them. - Maya Angelou
+Give a man a mask and he will show you his true face - Oscar Wilde
 If you gaze long enough into an abyss, the abyss will gaze back into you. - Friedrich Nietzsche
 Everyone thinks of changing the world, but no one thinks of changing himself. - Leo Tolstoy
 Today you, tomorrow me. - Reddit
-Anything not saved will be lost - unknown Microsoft employee
+Anything not saved will be lost. - unknown Microsoft employee
 Always be kind, for everyone is fighting a hard battle. - Plato
 GPA is more of a measure of obedience rather than intelligence - MOWGL13
 If you want to build a ship, don’t drum up the men to gather wood, divide the work and give orders. Instead, teach them to yearn for the vast and endless sea. - Antoine de SaintExupéry
@@ -50,22 +50,22 @@ Living well is the best revenge - George Herbert
 So many books, so little time. - Frank Zappa
 Be the change that you wish to see in the world. - Bapu
 If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals. - Dumbledore
-If you tell the truth, you don't have to remember anything.- Mark Twain
+If you tell the truth, you don't have to remember anything. - Mark Twain
 Insanity is doing the same thing, over and over again, but expecting different results. - Vaas
 It does not do to dwell on dreams and forget to live. - Dumbledore
 Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present. - Bill Keane
 I have not failed. I've just found 10,000 ways that won't work. - Thomas A. Edison
-It is not a lack of love, but a lack of friendship that makes unhappy marriages. - Friedrich Nietzsche
+~It is not a lack of love, but a lack of friendship that makes unhappy marriages. - Friedrich Nietzsche
 That which does not kill us makes us stronger. - Friedrich Nietzsche
 I may not have gone where I intended to go, but I think I have ended up where I needed to be. - Douglas Adams
-A day without sunshine is like, you know, night. - Steve Martin
+~A day without sunshine is like, you know, night. - Steve Martin
 I solemnly swear that I am up to no good. - Marauders
 If you can't explain it to a six year old, you don't understand it yourself. - Albert Einstein
 Sometimes the questions are complicated and the answers are simple. - Dr. Seuss
 Today you are You, that is truer than true. There is no one alive who is Youer than You. - Dr. Seuss
-Whenever I feel the need to exercise, I lie down until it goes away. - Paul Terry
+~Whenever I feel the need to exercise, I lie down until it goes away. - Paul Terry
 Logic will get you from A to Z; imagination will get you everywhere. - Albert Einstein
-One good thing about music, when it hits you, you feel no pain. - Bob Marley
+~One good thing about music, when it hits you, you feel no pain. - Bob Marley
 The more that you read, the more things you will know. The more that you learn, the more places you'll go. - Dr. Seuss
 If you only read the books that everyone else is reading, you can only think what everyone else is thinking. - Murkami
 Life isn't about finding yourself. Life is about creating yourself. - George Bernard Shaw
@@ -77,10 +77,10 @@ The only way out of the labyrinth of suffering is to forgive. - John Green
 What a slut time is. She screws everybody. - John Green
 Not all those who wander are lost. - J. R. R. Tolkien
 Anyone who has never made a mistake has never tried anything new. - Albert Einstein
-Always. - Snape
+~Always. - Snape
 ... a mind needs books as a sword needs a whetstone, if it is to keep its edge. - Tyrion Lannister
 Artificial intelligence is nothing compared to natural stupidity.
-Design is a funny word. Some people think design means how it looks. But of course, if you dig deeper, it’s really how it works. - Steve Jobs
+~Design is a funny word. Some people think design means how it looks. But of course, if you dig deeper, it’s really how it works. - Steve Jobs
 If you chase two rabbits, you will not catch either one. - Russian Proverb
 Your time is limited, so don't waste it living someone else's life. - Steve Jobs
 A man wishing to be unhappy finds many ways to prove his course. - Hundred Eyes
@@ -95,7 +95,6 @@ For every minute you are angry you lose sixty seconds of happiness. - Emerson
 Everything you can imagine is real. - Pablo Picasso
 It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all - in which case, you fail by default. - J. K. Rowling
 If you only read the books that everyone else is reading, you can only think what everyone else is thinking. - Murakami
-Life isn't about finding yourself. Life is about creating yourself. - George Bernand Shaw
 Missing is a good thing.
 Please tell me you're seeing this too. - Rami "Elliot" Malek
 Being polite costs nothing
@@ -109,14 +108,14 @@ What do you want to be when you give up? - Cartoon from New Yorker
 14:15 translation: the angles change in a lifetime in a triangle all the time. therefore there is a corner for enthusiasm, a corner for discipline and a corner for pragmatism. pragmatism means that you have to be able to succumb. if you don't succumb you cant' appreciate or understand others. it's all a mather of osmosis. we are not alone. - random youtuber on https://youtu.be/8uAHkngIyus
 Business should be an amoral activity i.e. deviod of any ethical or moral dimension.
 The limits of my language are the limits of my world. - Wittgenstein
- I roll with winners homeboy, don't know about you - Accused in The Night Of S01E01
- Uncertainty is an uncomfortable position. But certainty is an absurd one. —Voltaire
+I roll with winners homeboy, don't know about you - Accused in The Night Of S01E01
+Uncertainty is an uncomfortable position. But certainty is an absurd one. — Voltaire
 But people are too sophisticated, too nuanced, too complex, to be captured in numbers. We respond with our head to numbers; we respond with our heart to stories. God speaks to us in stories. The scriptures of every faith are collections of stories, not assemblages of data. - Suketu Mehta
 Have you ever questioned the nature of your reality? - Bernard Lowe
 An old friend once told me something that gave me great comfort. Something he read. He said Mozart, Beethoven and Chopin never died. They simply became music. - Dr. Ford
 We can't define consciousness because consciousness does not exist. Humans fancy that there's something special about the way we perceive the world, and yet we live in loops as tight and as closed as the hosts do, seldom questioning our choices, content, for the most part, to be told what to do next. - Dr. Ford
 Everything in this world is magic, except to the magician.  - Dr. Ford
-Service to others is the rent you pay for your room here on earth - Mohd. Ali
+Service to others is the rent you pay for your room here on earth. - Mohd. Ali
 C'est la vie.
 All the easy stuff has already been discovered by someone! - Shambhu in Aggarwal after KTG
 Choice is an illusion. Everything is a calculated risk. Only time will tell how far off was your calculation. - Dodo to Shambhu
@@ -160,19 +159,19 @@ There are two types of people who play football, majority are the ones who play 
 I find as impossible to know the parts without knowing the whole, as to know the whole without specifically knowing the parts. - Blaise Pascal
 The most important part of your professional wardrobe is your personality. Wear it with style. – Woody Wilson
 Be a Tiger (picture of leaping tiger, hippos and monkey on the screen). - Wayne Huang
-..because power is important - on gps watches during the 730
-You put a filter on anything and it becomes "art". - darth-dodo to dj
+..because power is important - on gps watches during the 730 presentation
+You put a filter on anything and it becomes 'art'. - darth-dodo to dj
 ..you always find the set of bad people first - Rushika Verma
 We must all learn, practice and perfect the act of expressing our expectations explicitly. Misunderstandings of this nature have likely caused more pain, delay and failure than anything else. - Akhil Aryan
 Je jassa dista tasse nasta mahnoonach jagg phasta - Dhananjay Pandit
-What would you like have, coffee or vodka? - Rishikesh Bane on Christmas morning '17
-We do not celebrate Christmas lately, but these days we are celebrating every day - Ken
+~What would you like have, coffee or vodka? - Rishikesh Bane on Christmas morning '17
+~We do not celebrate Christmas lately, but these days we are celebrating every day - Ken
 That's a good question. Is this language same as Indian - Ken during Indonesian movie The Raid Redemption
-Sarge will die. Time to open other beer. This is a good movie. Cheers! - Ken during Indonesian movie The Raid Redemption
+~Sarge will die. Time to open other beer. This is a good movie. Cheers! - Ken during Indonesian movie The Raid Redemption
 I don’t mean life-changing like a new home or a new job. I mean life-changing like the world flips upside down, dumps you on your face and then kicks you while you’re down for extra effect. - Charles Chu
 Write programs that do one thing and do it well. - Douglas McIlroy
 Most people don't even get to do The Brady Bunch version of the thing they want to do with their lives. You're actually in a really good position now, because you can pretty much do anything you want. You're responsible for your own happiness, you know? - Diane from Bojack Horseman
 What we build and what we work really reflects our ideals and values - Daniele Procida
 Art is how we decorate space, music is how we decorate time -  /u/aclayhutchhings
 A little trauma can be illuminating - Bernard Lowe
-Past seems distant, even when it is new and the future seems assured even if it is uncertain. _ John 'Crash Course' Green
+Past seems distant, even when it is new and the future seems assured even if it is uncertain. - John 'Crash Course' Green

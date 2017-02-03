@@ -176,6 +176,7 @@
 
         //read quotes from quotes.txt into an array
         var allQuotes = [];
+        var completedQuotes = [];
         var filename = 'data/quotes.txt';
 
         $.get(filename, function(data) {
@@ -185,33 +186,34 @@
             var quote_end = '”</i> ~ ';
 
             for (var i = allQuotes.length - 1; i >= 0; i--) {
+                if !(i.match("^~")) {
+                    var quote_arr = allQuotes[i].split('-')
+                    var return_quote = '';
+                    var author = 'Anon';
 
-                var quote_arr = allQuotes[i].split('-')
-                var return_quote = '';
-                var author = 'Anon';
+                    if (quote_arr.length > 1) {
+                        author = quote_arr.pop()
+                    }
 
-                if (quote_arr.length > 1) {
-                    author = quote_arr.pop()
-                }
+                    var first_elem = quote_arr[0];
+                    first_elem = quote_start + first_elem;
+                    quote_arr[0] = first_elem;
 
-                var first_elem = quote_arr[0];
-                first_elem = quote_start + first_elem;
-                quote_arr[0] = first_elem;
+                    if (quote_arr.length > 1) {
+                        var last_elem = quote_arr[-1];
+                        last_elem = last_elem + quote_end;
+                        quote_arr[-1] = last_elem;
+                        return_quote = quote_arr.join(' ');
+                    } else {
+                        return_quote = quote_arr.join(' ') + quote_end;
+                    }
 
-                if (quote_arr.length > 1) {
-                    var last_elem = quote_arr[-1];
-                    last_elem = last_elem + quote_end;
-                    quote_arr[-1] = last_elem;
-                    return_quote = quote_arr.join(' ');
-                } else {
-                    return_quote = quote_arr.join(' ') + quote_end;
-                }
-
-                return_quote += author;
-                allQuotes[i] = return_quote;
+                    return_quote += author;
+                    completedQuotes.push(return_quote);
+                }//not starting with ~
             }
 
-            var shuffledQuotes = shuffle(allQuotes);
+            var shuffledQuotes = shuffle(completedQuotes);
 
             $(".displayQuote").typed({
                 strings: shuffledQuotes,

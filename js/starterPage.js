@@ -185,7 +185,7 @@
             var quote_end = '”</i> ~ ';
 
             for (var i = allQuotes.length - 1; i >= 0; i--) {
-                if ((!(allQuotes[i].match("^~"))) && (allQuotes.length < 140)){
+                if ((!(allQuotes[i].match("^~"))) && (allQuotes[i].length <= 140)){
                     var quote_arr = allQuotes[i].split('-')
                     var return_quote = '';
                     var author = 'Anon';

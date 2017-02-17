@@ -188,3 +188,6 @@ The secret to creativity is knowing how to hide your sources. - Albert Einstein
 Startups exist to move fast. Speed is the weapon. Status quo is the enemy. - Hiten Shah
 Is _______ a dream or a goal? There is a huge difference and mindset. - /u/impmd
 ~My father is too much of a realist to understand me and I am too much of an idealist to understand him.
+Now go build awesome things. - DjangoRestFramework Docs
+
+

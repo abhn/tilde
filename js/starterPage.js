@@ -289,6 +289,11 @@
             key: '8',
             name: 'localhost:8000',
             url: 'http://localhost:8000/'
-        },]
+        }, {
+            key: '~',
+            name: 'tilde edit',
+            url: 'https://github.com/darth-dodo/tilde/edit/gh-pages/data/quotes.txt'
+        },
+                  ]
     });
 }());

@@ -226,3 +226,4 @@ If you are not paying for it , then you are the product. - /u/Random_entropy
 The survival of the fittest. Either you can be an example, or a warning for others! - /u/wordswithmagic
 Imperfect tests, run frequently, are much better than perfect tests that are never written at all. - Martin Fowler
 Unit tests tell a developer that the code is doing things right; functional tests tell a developer that the code is doing the right things.
+Object-oriented programming is great. It's what's enabled developers to create the vast world of amazing applications available today. But there's an impedance mismatch between OOP and relational databases. That's why today we're reinventing database access. Say hello to SQL. - /h/glhaynes

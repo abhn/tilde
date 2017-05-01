@@ -9,10 +9,19 @@
     //Changes the backgroud to a random color
     //hex codes obtained from https://www.materialui.co/colors
     
-    //var allColors = ['#212121', '#263238', '#455A64', '#5D4037', '#607D8B', '#424242', '#3E2723', '#424242', '#616161', '#34495e', '#4B0082', '#483D8B', '#008B8B', '#191970', '#696969', '#808000', '#008B8B'];
-    //var randColor = allColors[Math.floor(Math.random() * allColors.length)];
+    var allColors = ["#7B1FA2"
+                    , "#512DA8"
+                    , "#00838F"
+                    , "#00695C"
+                    , "#616161"
+                    , "#424242"
+                    , "#212121"
+                    , "#263238"
+                    , "#000000"
+                    ];
+    var randColor = allColors[Math.floor(Math.random() * allColors.length)];
     
-    var randColor = '#000000';
+    //var randColor = '#000000';
 
     document.body.style.backgroundColor = randColor;
 

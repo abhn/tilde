@@ -202,7 +202,7 @@
                         )
                         && (allQuotes[i].length <= 140)
                     ){
-                    (!(allQuotes[i].match("^~")) || (!(allQuotes[i].match("^\\"))) && (allQuotes[i].length <= 140)){
+                    // (!(allQuotes[i].match("^~")) || (!(allQuotes[i].match("^\\"))) && (allQuotes[i].length <= 140)){
                     var quote_arr = allQuotes[i].split('-')
                     var return_quote = '';
                     var author = 'Anon';

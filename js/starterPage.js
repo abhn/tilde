@@ -302,6 +302,10 @@
             key: '~',
             name: 'tilde edit',
             url: 'https://github.com/darth-dodo/tilde/edit/gh-pages/data/quotes.txt'
+        }, {
+            key: 'mfp',
+            name: 'mfp',
+            url: 'http://www.myfitnesspal.com/food/diary'
         },
                   ]
     });

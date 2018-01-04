@@ -419,3 +419,4 @@ Your question is short on details and long on hand-waving - https://serverfault.
 I am aware of my surroundings even I am asleep.
 Arrey I am not into agriculture re... - about Sapiens
 3-barbecue-music
+AWS SNS + Google Home analogy - Dhananjay

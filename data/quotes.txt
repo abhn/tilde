@@ -543,3 +543,4 @@ Beautiful sadness.
 So, if you want to look good in the future, you have to start looking at food like, well, food and not a reward.
 an optimization problem is meaningless without a target. You can't just optimize, you have to optimize for something.
 Not even close, not even a little bit, not even at all. - https://youtu.be/YV9gP5xp7OE?t=2m52s
+https://gist.github.com/darth-dodo/755405d542ad2cd51f4cda7398cd2b0d

@@ -553,3 +553,4 @@ Community is a nice euphemism for database - @ibogost
 You can’t eat a Lexus.
 “Each individual, I hope,” he announces, “will become better than me.” 
 So, do I want that escape? - 4/24/2018
+In many ways data science looks like web development did 5–8 years ago — a booming field where a little bit of knowledge can get you in the door due to a “skills gap” - https://medium.com/@TebbaVonMathenstien/are-programmers-headed-toward-another-bursting-bubble-528e30c59a0e
